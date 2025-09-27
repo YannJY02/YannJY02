@@ -4,7 +4,7 @@ about myself.
 ## 👋 Hi there, I'm Jinyi Yang!
 
 I'm currently a research master's student in Communication Science at the University of Amsterdam (UvA). My research interest focuses on dynamic media effect theories, especially how emerging technologies shape human perception and cognition. For example, perception in VR environments and cognitive risks in human–AI interaction.
-Also, I'm passionate about using technology to empower education and increase visibility for marginalized communities.
+Also, I'm passionate about using technology to empower education & health, and increase visibility for marginalized communities.
 
 ### 🎓 Education
 - BA in Journalism, Dalian University of Foreign Languages  
