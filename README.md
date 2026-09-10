@@ -8,7 +8,7 @@ Also, I'm passionate about using technology to empower education & health, and i
 
 ### 🎓 Education
 - BA in Journalism, Dalian University of Foreign Languages  
-- BA in Communication Science, University of Amsterdam  
+- BSc in Communication Science, University of Amsterdam  
 - Currently: Research MSc in Communication Science, UvA  
 
 ### 💼 Work Experience
